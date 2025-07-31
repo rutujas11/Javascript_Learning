@@ -12,8 +12,7 @@ Learned how to declare variables using `var`, `let`, and `const`, and explored d
 - Booleans  
 - Null  
 - Undefined  
-- Objects  
-- Arrays  
+- Objects   
 
 🔗 [View Code](https://github.com/rutujas11/Javascript_Learning/tree/main/Variables%20and%20datatypes)
 
