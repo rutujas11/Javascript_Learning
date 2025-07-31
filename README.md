@@ -35,6 +35,33 @@ Also explored conditional logic using:
 
 ---
 
+### 3. 🔁 Loops  
+Learned how to perform repetitive tasks using different types of loops:  
+- `for` loop  
+- `while` loop  
+- `do...while` loop  
+- `for...of` loop  
+- `for...in` loop  
+- Used `break` and `continue` statements to control loop flow.
+
+🔗 [View Code](https://github.com/rutujas11/Javascript_Learning/tree/main/Loops)
+
+---
+
+### 4. 🔤 Strings  
+Explored string manipulation and built-in methods including:  
+- Accessing characters (`charAt`, indexing)  
+- Finding length  (`length`)
+- Modifying (`slice`, `substring`, `replace`)  
+- Case conversion (`toUpperCase`, `toLowerCase`)  
+- Trimming whitespace (`trim`)  
+- Concatenation (`concat`)
+- template literals
+
+🔗 [View Code](https://github.com/rutujas11/Javascript_Learning/tree/main/Strings)
+
+---
+
 ## 📘 More Coming Soon...  
 Stay tuned for updates as I continue learning and adding more topics like loops, functions, DOM manipulation, events, and more!
 
