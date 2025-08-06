@@ -3,8 +3,6 @@
 Welcome to my JavaScript Learning Repository!  
 This repository documents my journey of learning JavaScript from scratch. I will be covering all fundamental concepts, writing practice code, and organizing them topic-wise in folders.
 
-## 📅 Today's Topics (29th July 2025)
-
 ### 1. 📌 Variables and Data Types  
 Learned how to declare variables using `var`, `let`, and `const`, and explored different data types in JavaScript such as:  
 - Strings  
