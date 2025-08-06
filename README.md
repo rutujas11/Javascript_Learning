@@ -60,6 +60,31 @@ Explored string manipulation and built-in methods including:
 
 ---
 
+### 5. 📦 Arrays  
+Learned how to create and manipulate arrays. Covered concepts like:  
+- Iterating through arrays (`for`, `for...of`, `forEach`)  
+- Calculating average of numeric arrays  
+- Applying discounts to items using loops  
+- Using `splice`, `shift`, and `push` for modifying array contents  
+- Real-world examples like price discounts and company name modifications
+
+🔗 [View Code](https://github.com/rutujas11/Javascript_Learning/tree/main/Arrays)
+
+---
+
+### 6. 🛠️ Functions  
+Covered how to write reusable code using functions. Topics included:  
+- Defining functions using `function` and arrow syntax  
+- Counting vowels in a string (with both normal and arrow functions)  
+- Using `forEach()` for array iteration  
+- Filtering values in an array with `filter()`  
+- Using `prompt()` for user input  
+- Using `reduce()` to calculate sum and product of numbers in an array
+
+🔗 [View Code](https://github.com/rutujas11/Javascript_Learning/tree/main/Functions)
+
+---
+
 ## 📘 More Coming Soon...  
 Stay tuned for updates as I continue learning and adding more topics like loops, functions, DOM manipulation, events, and more!
 
