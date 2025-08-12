@@ -85,6 +85,22 @@ Covered how to write reusable code using functions. Topics included:
 
 ---
 
+### 7. 🖥️ DOM (Part 1)  
+Learned how to access and select HTML elements using various DOM methods:  
+
+- **By ID** → `getElementById()`  
+- **By Class** → `getElementsByClassName()`  
+- **By Tag** → `getElementsByTagName()`  
+- **First Matching Element** → `querySelector()`  
+- **All Matching Elements** → `querySelectorAll()`  
+- Selecting with **class selector** (`.classname`) and **ID selector** (`#idname`) in `querySelector()`  
+
+Also explored `console.log()` and `console.dir()` to see the differences in logging HTML elements vs. element objects.  
+
+🔗 [View Code](https://github.com/rutujas11/Javascript_Learning/tree/main/DOM%20Part-1)
+
+---
+
 ## 📘 More Coming Soon...  
 Stay tuned for updates as I continue learning and adding more topics like loops, functions, DOM manipulation, events, and more!
 
