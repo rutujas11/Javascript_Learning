@@ -1,0 +1,22 @@
+h1{                                        /*here we can also use #heading instead of h1 (since heading is id of h1*/
+    color: rgb(255, 115, 0);
+}
+
+#myid{
+    background-color: rgb(47, 186, 255);
+}
+
+.myclass{
+    background-color: yellow;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: deeppink;
+}
+
+body{
+    background-color: bisque;
+}
+

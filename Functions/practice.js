@@ -59,4 +59,4 @@ console.log("Sum using Reduce function :",op);
 const prod = numbers.reduce((res, curr2) => {
     return res * curr2;
 })
-console.log("Sum using Reduce function :",prod);
+console.log("Product using Reduce function :",prod);
