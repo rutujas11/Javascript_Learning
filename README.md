@@ -101,6 +101,40 @@ Also explored `console.log()` and `console.dir()` to see the differences in logg
 
 ---
 
+### 8. 🖌️ DOM (Part 2)  
+Explored how to **create and modify elements dynamically** in the DOM:  
+
+- Creating new elements using `createElement()`  
+- Adding text and styling with `innerHTML` and `style` properties  
+- Inserting elements into the document using `prepend()`  
+- Creating buttons and styling them without writing HTML directly  
+- Using `classList` to view, add, or modify classes of elements  
+
+🔗 [View Code](https://github.com/rutujas11/Javascript_Learning/tree/main/DOM%20Part-2)
+
+---
+
+### 9. 🏗️ Classes and Objects  
+Learned about object-oriented programming concepts in JavaScript using **classes** and **objects**:  
+- Creating classes using the `class` keyword  
+- Defining constructors to initialize object properties  
+- Adding methods inside classes  
+- Creating multiple objects (instances) from a single class  
+- Understanding `this` keyword inside class methods  
+
+🔗 [View Code](https://github.com/rutujas11/Javascript_Learning/tree/main/Classes%20and%20Objects)
+
+---
+
+### 10. ⚠️ Error Handling  
+Explored how to manage and handle runtime errors gracefully in JavaScript:  
+- Using `try...catch` to handle exceptions  
+- Adding `finally` block for cleanup tasks  
+- Throwing custom errors using `throw`  
+- Preventing code crashes by handling invalid input and unexpected issues  
+
+🔗 [View Code](https://github.com/rutujas11/Javascript_Learning/tree/main/Error%20Handling)
+
 ## 📘 More Coming Soon...  
 Stay tuned for updates as I continue learning and adding more topics like loops, functions, DOM manipulation, events, and more!
 
